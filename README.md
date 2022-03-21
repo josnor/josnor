@@ -1,6 +1,6 @@
 # Data Science - Análisis de Datos Netflix
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Acerca de este conjunto de datos: Netflix es una de las plataformas de transmisión de video y medios más populares. Tienen más de 8000 películas o programas de televisión disponibles en su plataforma, a mediados de 2021, tienen más de 200 millones de suscriptores en todo el mundo. Este conjunto de datos tabulares consta de listados de todas las películas y programas de televisión disponibles en Netflix, junto con detalles como: elenco, directores, calificaciones, año de estreno, duración, etc._
 
 ## Comenzando 🚀
 
